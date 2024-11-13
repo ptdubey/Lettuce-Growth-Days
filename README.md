@@ -31,11 +31,11 @@ This analysis demonstrates the effectiveness of using Google Sheets for comprehe
 To update this repository with new data or analysis:
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/plant-growth-analysis.git
+    git clone https://github.com/ptdubey/Lettuce-Growth-Days.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd plant-growth-analysis
+    cd Lettuce-Growth-Days
     ```
 3. **Update the data in the Google Sheets and export as a CSV.**
 4. **Replace the old CSV file with the new one in the project directory.**
